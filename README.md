@@ -7,7 +7,7 @@ Questo progetto esplora l'integrazione dell'**Intelligenza Artificiale** e delle
 
 ---
 
-## 🎯 Obiettivi del Progetto
+## Obiettivi del Progetto
 
 **Asset Clustering**: Identificazione di gruppi omogenei di titoli basati sul profilo di rischio/rendimento.
 **Asset Allocation**: Ottimizzazione del bilanciamento di portafoglio tra rischio e rendimento potenziale.
@@ -15,7 +15,7 @@ Questo progetto esplora l'integrazione dell'**Intelligenza Artificiale** e delle
 
 ---
 
-## 🛠 Tecnologie e Data Source
+## Tecnologie e Data Source
 
 Il progetto utilizza lo stack tecnologico standard per la finanza quantitativa:
 * **Python**: Linguaggio principale per l'analisi dei dati.
@@ -26,7 +26,7 @@ Il progetto utilizza lo stack tecnologico standard per la finanza quantitativa:
 
 ---
 
-## 📊 Analisi 1: Asset Clustering tramite K-Means
+## Analisi 1: Asset Clustering tramite K-Means
 
 L'algoritmo **K-Means** divide le osservazioni in gruppi basandosi sulla distanza dal centroide (media).
 * **Dataset**: 21 azioni di diversi settori (Tech, Energy, Finance, Pharma, Consumer).
@@ -37,7 +37,7 @@ L'algoritmo **K-Means** divide le osservazioni in gruppi basandosi sulla distanz
 
 ---
 
-## 📈 Analisi 2: Ottimizzazione e Frontiera Efficiente
+## Analisi 2: Ottimizzazione e Frontiera Efficiente
 
 Basandosi sulla **Teoria Moderna del Portafoglio** di Harry Markowitz, il rischio di un portafoglio dipende dalla correlazione tra i titoli e non solo dalla media dei rischi singoli.
 
