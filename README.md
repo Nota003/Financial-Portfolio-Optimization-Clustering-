@@ -51,7 +51,7 @@ Sono stati generati **70.000 portafogli casuali** per tracciare la **Frontiera E
 
 ---
 
-## 📚 Fonti Principali
+## Fonti Principali
 * **Trerotola M.**, *L'intelligenza artificiale applicata ai portafogli finanziari*.
 * **Zheng et al.**, *FinBrain: when finance meets AI 2.0*.
 
